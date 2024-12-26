@@ -9,8 +9,8 @@ For local conversion of these .md format files, to other friendly formats, I rec
 
 # Course Day Chapter Notes:
 
-- Day 1. [Networking Devices](https://github.com/SherryPham/CCNA/blob/main/Course_Notes/Network_Devices.md)
-- Day 2. [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Interfaces_and_Cables.md)
+- Day 1. [Networking Devices](https://github.com/SherryPham/ccna-notes/blob/main/topics/Network_Devices.md)
+- Day 2. [Interfaces And Cables](https://github.com/SherryPham/ccna-notes/blob/main/topics/Interfaces_and_Cables.md)
 - Day 3. [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSI_Model_TCPSuite.md)
 - Day 4. [Intro to the CLI](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Intro_to_CLI.md)
 - Day 5. [Ethernet LAN Switching - Part 1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Ethernet_LAN_Switching_Part1.md)
