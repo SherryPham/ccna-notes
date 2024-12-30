@@ -1,9 +1,5 @@
 # Materials for CCNA 200-301 Exam 
 
-To download these notes, use `git clone https://github.com/SherryPham/ccna-notes.git`
-
-For browser based conversion of these .md format files, to PDF format, I recommend the online tool [Dillinger.io](https://dillinger.io/)
-For local conversion of these .md format files, to other friendly formats, I recommend the open source [Calibre](https://calibre-ebook.com/) ** Allows Bulk processing to mobile / iPad **
 
 ---
 
